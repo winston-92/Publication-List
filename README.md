@@ -26,4 +26,4 @@ Miller, P.W. and Johnson, D.L. Extended Automated Analysis Package using System 
 2018
 
 Miller, P.W. and Raashotte, A.M. Examination of Cytokinin Response Factor 7 during development, hormone, and 
-stress response. Poster Presentation, delivered at The Annual Meeting of the American Society of Plant Biologists-Southern Section, Dauphin Islan
+stress response. Poster Presentation, delivered at The Annual Meeting of the American Society of Plant Biologists-Southern Section, Dauphin Island
