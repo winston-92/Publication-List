@@ -7,9 +7,7 @@ A. Kaitlyn Victor, Martin Donaldson, Daniel Johnson, Winston Miller, Lawrence T.
 Prader-Willi Syndrome Neurons Reveals Clues About Increased Autism Susceptibility. bioRxiv 2021.08.09.455700; 
 doi: https://doi.org/10.1101/2021.08.09.455700
 
-Feng Liu-Smith, Chi-Yang Chiu, Daniel L. Johnson, P.W. Miller, Evan S. Glazer, Zhaohui Wu, Matthew W Wilson. The 
-immune response and redox regulation are important mechanisms to understand sex differences in patients with 
-uveal melanoma. Current Oncology 2021, 28(4), 2801-2811; https://doi.org/10.3390/curroncol28040245
+Liu-Smith F, Chiu C-Y, Johnson DL, Miller PW, Glazer ES, Wu Z, Wilson MW. The Sex Differences in Uveal Melanoma: Potential Roles of EIF1AX, Immune Response and Redox Regulation. Current Oncology. 2021; 28(4):2801-2811. https://doi.org/10.3390/curroncol28040245
 
 Chen H, Miller P.W., Johnson DL, Laribee RN (2020) The Ccr4-Not complex regulates TORC1 signaling and 
 mitochondrial metabolism by promoting vacuole V-ATPase activity. PLOS Genetics 16(10): 
