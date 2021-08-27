@@ -1,6 +1,6 @@
 # PublicationList
 
-Includes a small section describing my contribution to the work, or the work itself if not publicly available
+Will include a small section describing my contribution to the work, or the work itself if not publicly available
 
 
 A. Kaitlyn Victor, Martin Donaldson, Daniel Johnson, Winston Miller, Lawrence T. Reiter. Molecular Changes in 
